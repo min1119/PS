@@ -1,2 +1,2 @@
-a=10;b=10
+a, b = map(int, input().split())
 print(a+b)
