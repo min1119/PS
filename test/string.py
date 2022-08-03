@@ -32,5 +32,7 @@ print("I eat {0} apples".format("five"))
 print("I eat {0} apples".format(number))
 print("I ate {0} apples.so I was sick for {1} days.".format(num,day))
 print("I ate {n} apples.so I was sick for {d} days.".format(n=10,d=3))
-name=이동민
-print ("'my name is {name}'")
+name='이동민'
+print ("my name is {}".format(name))
+
+
