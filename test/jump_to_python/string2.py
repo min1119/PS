@@ -1,7 +1,7 @@
 #문자열 관련 함수 count/find/index/join/upper/lower/lstrip/rstrip/replace/split
 a= "hobby"
-print(a.count('b'))
-print(a.find('b'))
+print(a.count('b')) #개수
+print(a.find('b')) #순서
 print(a.index('b')) #b가 제일 먼저 나온 위치 반환
 print(",".join("abcd"))
 a="Life is too short"
